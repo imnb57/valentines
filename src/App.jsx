@@ -8,7 +8,7 @@ const ValentinesPrompt = () => {
   const noButtonRef = useRef(null);
 
   const yesResponses = [
-    " I knew you'd say yes!\n|| This makes me so happy\n ||Let's make it special 💖"
+    " I knew you'd say yes!Let's make it special 💖"
     
   ];
 
